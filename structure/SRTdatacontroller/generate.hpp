@@ -18,7 +18,7 @@ struct config : public stats_config
 	int         sendrate       = 0;
 	int         num_messages   = -1;
 	int         duration       = 0;
-	int         message_size   = 1316; ////8 * 1024 * 1024;
+	int         message_size   = 1316; //// байты
 	bool        two_way        = false;
 	bool        reconnect      = false;
 	bool        close_listener = false;
