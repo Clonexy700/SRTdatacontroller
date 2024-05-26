@@ -9,17 +9,17 @@
 # Установка
 
 ## На Windows:
-`git clone https://github.com/microsoft/vcpkg.git`
-`cd vcpkg`
-`.\bootstrap-vcpkg.bat`
-`\.vcpkg install pthreads --triplet x64-windows`
-`\.vcpkg install openssl --triplet x64-windows`
-`\.vcpkg integrate install`
-`cd SRTdatacontroller`
-`md _build`
-`cd _build`
-`cmake ../ -DCMAKE_TOOLCHAIN_FILE=SRTdatacontroller\vcpkg\scripts\buildsystems\vcpkg.cmake `
-`cmake --build ./ --config Release`
+- `git clone https://github.com/microsoft/vcpkg.git`
+- `cd vcpkg`
+- `.\bootstrap-vcpkg.bat`
+- `\.vcpkg install pthreads --triplet x64-windows`
+- `\.vcpkg install openssl --triplet x64-windows`
+- `\.vcpkg integrate install`
+- `cd SRTdatacontroller`
+- `md _build`
+- `cd _build`
+- `cmake ../ -DCMAKE_TOOLCHAIN_FILE=SRTdatacontroller\vcpkg\scripts\buildsystems\vcpkg.cmake `
+- `cmake --build ./ --config Release`
 
 
 ## Если при cmake возникает ошибка:

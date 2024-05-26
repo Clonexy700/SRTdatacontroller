@@ -1,8 +1,8 @@
 site_name: SRTdatacontoller документация
 site_description: Инструмент для работы с отладки СРТ сокетов работы с ними и контролируемой потери данных
-repo_name: Clonexy700/NSU-opd-dmta-solver
+repo_name: Clonexy700/SRTdatacontroller
 site_author: clonexy700
-repo_url: https://github.com/Clonexy700/NSU-opd-dmta-solver
+repo_url: https://github.com/Clonexy700/SRTdatacontroller
 
 theme:
   name: material
