@@ -36,40 +36,41 @@
 \red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
 \red192\green192\blue192;\red54\green95\blue145;}{\*\defchp }{\*\defpap \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{
 \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \snext0 \sqformat \spriority0 Normal;}{
-\s1\ql \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink24 \sqformat 
+\s1\ql \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink15 \sqformat 
 heading 1;}{\s2\qc \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
-\sbasedon0 \snext0 \slink15 \sqformat heading 2;}{\s3\qj \fi720\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
-\b\fs24\lang1024\langfe1024\cgrid\noproof\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink16 \sqformat heading 3;}{\s4\qj \fi567\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
-\ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1024\langfe1024\cgrid\noproof\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink17 \sqformat heading 4;}{
+\sbasedon0 \snext0 \slink16 \sqformat heading 2;}{\s3\qj \fi720\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
+\b\fs24\lang1024\langfe1024\cgrid\noproof\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink17 \sqformat heading 3;}{\s4\qj \fi567\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1024\langfe1024\cgrid\noproof\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink18 \sqformat heading 4;}{
 \s5\qc \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel4\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af1\afs20\alang1025 \ltrch\fcs0 \b\f1\fs20\cf1\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
-\sbasedon0 \snext0 \slink18 \sqformat heading 5;}{\s6\qc \li720\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel5\adjustright\rin0\lin720\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
-\b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink19 \sqformat heading 6;}{\s7\qc \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel6\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 
-\ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink20 \sqformat heading 7;}{\s8\qr \fi567\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel7\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
-\ab\af1\afs20\alang1025 \ltrch\fcs0 \b\f1\fs20\cf1\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink21 \sqformat heading 8;}{
+\sbasedon0 \snext0 \slink19 \sqformat heading 5;}{\s6\qc \li720\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel5\adjustright\rin0\lin720\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
+\b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink20 \sqformat heading 6;}{\s7\qc \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel6\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 
+\ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink21 \sqformat heading 7;}{\s8\qr \fi567\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel7\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af1\afs20\alang1025 \ltrch\fcs0 \b\f1\fs20\cf1\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \slink22 \sqformat heading 8;}{
 \s9\ql \fi111\li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel8\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af1\afs20\alang1025 \ltrch\fcs0 \b\f1\fs20\cf1\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
-\sbasedon0 \snext0 \slink22 \sqformat heading 9;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\sbasedon0 \snext0 \slink23 \sqformat heading 9;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
 \ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
 \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \snext11 \ssemihidden \sunhideused Normal Table;}{\*\cs15 \additive 
-\rtlch\fcs1 \ab\ai\af0\afs28 \ltrch\fcs0 \b\i\f39\fs28 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 Heading 2 Char;}{\*\cs16 \additive \rtlch\fcs1 \ab\af0\afs26 \ltrch\fcs0 \b\f39\fs26 \sbasedon10 \slink3 \slocked \ssemihidden \spriority9 
-Heading 3 Char;}{\*\cs17 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\f37\fs28 \sbasedon10 \slink4 \slocked \ssemihidden \spriority9 Heading 4 Char;}{\*\cs18 \additive \rtlch\fcs1 \ab\ai\af0\afs26 \ltrch\fcs0 \b\i\f37\fs26 
-\sbasedon10 \slink5 \slocked \ssemihidden \spriority9 Heading 5 Char;}{\*\cs19 \additive \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f37 \sbasedon10 \slink6 \slocked \ssemihidden \spriority9 Heading 6 Char;}{\*\cs20 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f37\fs24 \sbasedon10 \slink7 \slocked \ssemihidden \spriority9 Heading 7 Char;}{\*\cs21 \additive \rtlch\fcs1 \ai\af0\afs24 \ltrch\fcs0 \i\f37\fs24 \sbasedon10 \slink8 \slocked \ssemihidden \spriority9 Heading 8 Char;}{\*\cs22 \additive \rtlch\fcs1 \af0 
-\ltrch\fcs0 \f39 \sbasedon10 \slink9 \slocked \ssemihidden \spriority9 Heading 9 Char;}{\s23\qj \fi720\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 
-\b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext23 \slink26 Body Text 2;}{\*\cs24 \additive \rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\f39\fs32\kerning32 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs25 \additive 
-\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 Hyperlink;}{\*\cs26 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink23 \slocked \ssemihidden Body Text 2 Char;}{
-\s27\qj \fi567\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext27 \slink29 Body Text Indent 2;}{
-\s28\qj \fi709\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext28 \slink31 Body Text Indent 3;}{\*
-\cs29 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink27 \slocked \ssemihidden Body Text Indent 2 Char;}{\s30\ql \li0\ri0\widctlpar\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
-\af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext30 \slink33 header;}{\*\cs31 \additive \rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \fs16 \sbasedon10 \slink28 \slocked \ssemihidden Body Text Indent 3 Char;}{
-\s32\ql \li0\ri0\widctlpar\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext32 \slink35 footer;}{\*
-\cs33 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink30 \slocked \ssemihidden Header Char;}{\*\cs34 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 page number;}{\*\cs35 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 
-\sbasedon10 \slink32 \slocked Footer Char;}{\s36\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
-\sbasedon0 \snext36 \slink38 Body Text;}{\s37\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
-\sbasedon0 \snext0 \slink40 \sqformat \spriority11 \styrsid9771925 Subtitle;}{\*\cs38 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink36 \slocked \ssemihidden Body Text Char;}{\s39\ql \li0\ri0\sb480\sl276\slmult1
+\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\f39\fs32\kerning32 \sbasedon10 \slink1 \slocked \spriority9 Heading 1 Char;}{\*\cs16 \additive \rtlch\fcs1 \ab\ai\af0\afs28 \ltrch\fcs0 \b\i\f39\fs28 \sbasedon10 \slink2 \slocked \ssemihidden \spriority9 
+Heading 2 Char;}{\*\cs17 \additive \rtlch\fcs1 \ab\af0\afs26 \ltrch\fcs0 \b\f39\fs26 \sbasedon10 \slink3 \slocked \ssemihidden \spriority9 Heading 3 Char;}{\*\cs18 \additive \rtlch\fcs1 \ab\af0\afs28 \ltrch\fcs0 \b\f37\fs28 
+\sbasedon10 \slink4 \slocked \ssemihidden \spriority9 Heading 4 Char;}{\*\cs19 \additive \rtlch\fcs1 \ab\ai\af0\afs26 \ltrch\fcs0 \b\i\f37\fs26 \sbasedon10 \slink5 \slocked \ssemihidden \spriority9 Heading 5 Char;}{\*\cs20 \additive \rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f37 \sbasedon10 \slink6 \slocked \ssemihidden \spriority9 Heading 6 Char;}{\*\cs21 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f37\fs24 \sbasedon10 \slink7 \slocked \ssemihidden \spriority9 Heading 7 Char;}{\*\cs22 \additive \rtlch\fcs1 
+\ai\af0\afs24 \ltrch\fcs0 \i\f37\fs24 \sbasedon10 \slink8 \slocked \ssemihidden \spriority9 Heading 8 Char;}{\*\cs23 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f39 \sbasedon10 \slink9 \slocked \ssemihidden \spriority9 Heading 9 Char;}{
+\s24\qj \fi720\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext24 \slink25 Body Text 2;}{\*\cs25 
+\additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink24 \slocked \ssemihidden Body Text 2 Char;}{\*\cs26 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf2 \sbasedon10 Hyperlink;}{
+\s27\qj \fi567\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext27 \slink28 Body Text Indent 2;}{\*
+\cs28 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink27 \slocked \ssemihidden Body Text Indent 2 Char;}{\s29\qj \fi709\li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af0\afs24\alang1025 \ltrch\fcs0 \b\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext29 \slink30 Body Text Indent 3;}{\*\cs30 \additive \rtlch\fcs1 \af0\afs16 \ltrch\fcs0 \fs16 \sbasedon10 \slink29 \slocked \ssemihidden 
+Body Text Indent 3 Char;}{\s31\ql \li0\ri0\widctlpar\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
+\sbasedon0 \snext31 \slink32 header;}{\*\cs32 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink31 \slocked \ssemihidden Header Char;}{\s33\ql \li0\ri0\widctlpar
+\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext33 \slink34 footer;}{\*\cs34 \additive \rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink33 \slocked Footer Char;}{\*\cs35 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 page number;}{\s36\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\ab\af0\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext36 \slink37 Body Text;}{\*\cs37 \additive \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20 \sbasedon10 \slink36 \slocked \ssemihidden Body Text Char;}{
+\s38\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
+\sbasedon0 \snext0 \slink39 \sqformat \spriority11 \styrsid9771925 Subtitle;}{\*\cs39 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24 \sbasedon10 \slink38 \slocked \spriority11 \styrsid9771925 Subtitle Char;}{\s40\ql \li0\ri0\sb480\sl276\slmult1
 \keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af0\afs28\alang1025 \ltrch\fcs0 \b\f39\fs28\cf17\lang1049\langfe1033\cgrid\langnp1049\langfenp1033 
-\sbasedon1 \snext0 \ssemihidden \sunhideused \sqformat \spriority39 \styrsid9771925 TOC Heading;}{\*\cs40 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24 \sbasedon10 \slink37 \slocked \spriority11 \styrsid9771925 Subtitle Char;}{
-\s41\ql \li200\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\tqr\tldot\tx9204\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin200\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 
-\sbasedon0 \snext0 \sautoupd \sunhideused \spriority39 \styrsid5584140 toc 2;}{\*\ts42\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\sbasedon1 \snext0 \ssemihidden \sunhideused \sqformat \spriority39 \styrsid9771925 TOC Heading;}{\s41\ql \li200\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\tqr\tldot\tx9204\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin200\itap0 
+\rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sbasedon0 \snext0 \sautoupd \sunhideused \spriority39 \styrsid5584140 toc 2;}{\*\ts42\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
 \trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
 \ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \f31506\fs22\lang1049\langfe1033\cgrid\langnp1049\langfenp1033 \sbasedon11 \snext42 \spriority59 \styrsid5122303 
 Table Grid;}}{\*\listtable{\list\listtemplateid68747265\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360
@@ -127,24 +128,25 @@ Table Grid;}}{\*\listtable{\list\listtemplateid68747265\listsimple{\listlevel\le
 \listoverridecount0\ls3}{\listoverride\listid153838664\listoverridecount0\ls4}{\listoverride\listid1873809889\listoverridecount0\ls5}{\listoverride\listid2000038003\listoverridecount0\ls6}{\listoverride\listid1498955915\listoverridecount0\ls7}
 {\listoverride\listid1376932595\listoverridecount0\ls8}{\listoverride\listid1875002808\listoverridecount0\ls9}{\listoverride\listid1883206669\listoverridecount0\ls10}{\listoverride\listid847061430\listoverridecount0\ls11}{\listoverride\listid2049796114
 \listoverridecount0\ls12}{\listoverride\listid1039356199\listoverridecount0\ls13}{\listoverride\listid1091586434\listoverridecount0\ls14}{\listoverride\listid1180969940\listoverridecount0\ls15}{\listoverride\listid1193492722\listoverridecount0\ls16}}
-{\*\rsidtbl \rsid149978\rsid1130057\rsid2046295\rsid2193902\rsid4530794\rsid5067341\rsid5122303\rsid5208745\rsid5584140\rsid5795430\rsid5918440\rsid6162066\rsid6641752\rsid7419995\rsid7755505\rsid9727177\rsid9771925\rsid10689950\rsid11275765\rsid12475026
-\rsid13239950\rsid13450229\rsid14229067\rsid14683421\rsid14690748\rsid16217901}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\title 1}{\author Kustov V.}
-{\operator Clonexy700 Main Account}{\creatim\yr2004\mo3\dy26\hr20\min20}{\revtim\yr2024\mo5\dy27\min14}{\printim\yr2000\mo5\dy31\hr8\min48}{\version22}{\edmins45}{\nofpages21}{\nofwords3622}{\nofchars20648}{\*\company New Technologies Co., Ltd.}
-{\nofcharsws24222}{\vern57435}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11906\paperh16838\margl1701\margr991\margt1134\margb1276\gutter0\ltrsect 
+{\*\rsidtbl \rsid6844\rsid149978\rsid1130057\rsid2046295\rsid2193902\rsid4530794\rsid5067341\rsid5122303\rsid5208745\rsid5584140\rsid5795430\rsid5918440\rsid6162066\rsid6641752\rsid7419995\rsid7755505\rsid9727177\rsid9771925\rsid10689950\rsid11275765
+\rsid12066445\rsid12475026\rsid12600791\rsid13045181\rsid13239950\rsid13392129\rsid13450229\rsid14229067\rsid14683421\rsid14690748\rsid15289091\rsid16217901}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1
+\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\title 1}{\author Kustov V.}{\operator Clonexy700 Main Account}{\creatim\yr2004\mo3\dy26\hr20\min20}{\revtim\yr2024\mo5\dy30\hr18\min28}{\printim\yr2000\mo5\dy31\hr8\min48}{\version26}{\edmins56}{\nofpages24}
+{\nofwords4148}{\nofchars23649}{\*\company New Technologies Co., Ltd.}{\nofcharsws27742}{\vern57435}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw11906\paperh16838\margl1701\margr991\margt1134\margb1276\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen
 \expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace100\dgvspace180\dghorigin1701\dgvorigin1134\dghshow0\dgvshow0\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\htmautsp\nolnhtadjtbl\rsidroot12475026 \fet0
 {\*\wgrffmtfilter 2450}\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5918440 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
-\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5795430 \chftnsep 
+\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6844 \chftnsep 
 \par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5918440 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5795430 \chftnsepc 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6844 \chftnsepc 
 \par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5918440 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5795430 \chftnsep 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6844 \chftnsep 
 \par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5918440 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5795430 \chftnsepc 
-\par }}\ltrpar \sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\footerr \ltrpar \pard\plain \ltrpar\s32\qr \li0\ri0\widctlpar
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6844 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\footerr \ltrpar \pard\plain \ltrpar\s33\qr \li0\ri0\widctlpar
 \tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\field{\*\fldinst {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4530794 
- PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid11275765 21}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4530794 
-\par }\pard \ltrpar\s32\qc \li0\ri0\widctlpar\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe1049\langnp1033\insrsid12475026 
+ PAGE   \\* MERGEFORMAT }}{\fldrslt {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid13045181 22}}}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4530794 
+\par }\pard \ltrpar\s33\qc \li0\ri0\widctlpar\tqc\tx4153\tqr\tx8306\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1033\langfe1049\langnp1033\insrsid12475026 
 \par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
 {\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\ltrrow\trowd \irow0\irowband0\ltrrow
@@ -166,9 +168,11 @@ Table Grid;}}{\*\listtable{\list\listtemplateid68747265\listsimple{\listlevel\le
 \par 
 \par 
 \par 
-\par }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid5122303 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\insrsid5122303\charrsid6162066 \'d0\'c5\'d4\'c5\'d0\'c0\'d2
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\pararsid5122303 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\insrsid5122303\charrsid6162066 \'d0\'c5\'d4\'c5\'d0\'c0\'d2}{\rtlch\fcs1 \af0\afs32 
+\ltrch\fcs0 \b\fs32\lang1033\langfe1049\langnp1033\insrsid5122303\charrsid12600791 
 \par 
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid5122303\charrsid6162066 \'ed\'e0 \'f2\'e5\'ec\'f3
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid5122303\charrsid6162066 \'ed\'e0}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid5122303\charrsid12600791  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\fs32\insrsid5122303\charrsid6162066 \'f2\'e5\'ec\'f3}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid5122303\charrsid12600791 
 \par 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\lang1033\langfe1049\langnp1033\insrsid14690748\charrsid6162066 SRT(Secure, Reliable, Transport - }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\insrsid14690748\charrsid6162066 \'cf\'f0\'ee\'f2\'ee\'ea\'ee\'eb}{
 \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\lang1033\langfe1049\langnp1033\insrsid14690748\charrsid6162066 )}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\lang1033\langfe1049\langnp1033\insrsid5122303\charrsid6162066 
@@ -204,89 +208,94 @@ Table Grid;}}{\*\listtable{\list\listtemplateid68747265\listsimple{\listlevel\le
 \ts11\trgaph108\trrh420\trleft-567\trftsWidth1\trftsWidthB3\trftsWidthA3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblrsid6641752\tbllkhdrrows\tbllkhdrcols\tbllknocolband\tblind-459\tblindtype3 \clvertalt\clbrdrt\brdrtbl 
 \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \cltxlrtb\clftsWidth3\clwWidth9889\clshdrawnil \cellx9322\row }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 
 \b\fs32\insrsid5122303\charrsid6162066 \page }{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\fs32\insrsid12475026\charrsid6162066 
-\par }\pard\plain \ltrpar\s39\qc \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5122303 \rtlch\fcs1 \ab\af0\afs28\alang1025 \ltrch\fcs0 
+\par }\pard\plain \ltrpar\s40\qc \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5122303 \rtlch\fcs1 \ab\af0\afs28\alang1025 \ltrch\fcs0 
 \b\f39\fs28\cf17\lang1049\langfe1033\cgrid\langnp1049\langfenp1033 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\f0\fs32\cf0\insrsid9771925\charrsid6162066 \'d1\'ce\'c4\'c5\'d0\'c6\'c0\'cd\'c8\'c5
 \par }\pard\plain \ltrpar\s41\ql \li200\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\tqr\tldot\tx9204\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin200\itap0 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\insrsid9771925\charrsid5067341  TOC \\o "1-3" \\h \\z \\u }}{\fldrslt {\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 
-\ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK \\l "_Toc167661190"}{\rtlch\fcs1 \af0\afs36 
-\ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 {\*\datafield 
-08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390030000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'c2\'c2\'c5
+\ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK \\l "_Toc167661190"}{\rtlch\fcs1 \af0\afs36 
+\ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003000000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'c2\'c2\'c5
 \'c4\'c5\'cd\'c8\'c5}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661190 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 
-08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390030000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 4}}}
-\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003000000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 4}}}
+\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
-\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
-\\l "_Toc167661191"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390031000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-\'ce\'ef\'f0\'e5\'e4\'e5\'eb\'e5\'ed\'e8\'e5 SRT-\'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb\'ee\'e2}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 
-\af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661191 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 
-08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390031000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 4}}}
-\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
+\\l "_Toc167661191"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003100000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'ce\'ef\'f0\'e5\'e4\'e5\'eb\'e5\'ed\'e8\'e5 SRT-\'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb\'ee\'e2}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661191 \\h }{
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003100000000}}}{\fldrslt {
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 4}}}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect
+\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
+\\l "_Toc167661192"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003200000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid149978 I}{
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 . \'cf\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'e5 SRT \'e2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'f5}{\rtlch\fcs1 
+\af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 
+ PAGEREF _Toc167661192 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003200000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 12}}}
+\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
-\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
-\\l "_Toc167661192"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390032000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid149978 I}{
-\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 . \'cf\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'e5 SRT \'e2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'f5}{\rtlch\fcs1 
-\af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF 
-_Toc167661192 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 
-08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390032000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 12}}}
-\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 
-\fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
-\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
-\\l "_Toc167661193"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390033000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
-\cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid5067341\charrsid5067341 I}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid149978 V}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
-\cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 . \'d2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e8 \'e8 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'fb, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'fe\'f9\'e8\'e5 SRT}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
+\\l "_Toc167661193"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003300000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid5067341\charrsid5067341 I}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid149978 V}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 . \'d2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e8 \'e8 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'fb, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'fe\'f9\'e8\'e5 SRT}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661193 \\h }{
-\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390033000000}}}{\fldrslt {
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003300000000}}}{\fldrslt {
 \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 14}}}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect
-\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
-\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
-\\l "_Toc167661194"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390034000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-V. \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'e8\'ff SRT}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {
-\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661194 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390034000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 15}
-}}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 
-\fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
-\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
-\\l "_Toc167661195"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390035000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
-\cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid5067341\charrsid5067341 VI. }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'c7\'c0\'ca\'cb\'de\'d7\'c5\'cd\'c8\'c5}{
+\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
+\\l "_Toc167661194"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003400000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 V. \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'e8\'ff SRT}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661194 \\h }{
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003400000000}}}{\fldrslt {
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 15}}}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect
+\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
+\\l "_Toc167661195"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003500000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid5067341\charrsid5067341 VI. }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'c7\'c0\'ca\'cb\'de\'d7\'c5\'cd\'c8\'c5}{
 \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 
  PAGEREF _Toc167661195 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 
-08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390035000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 17}}}
-\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003500000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 17}}}
+\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
-\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
-\\l "_Toc167661196"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390036000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
-\'d1\'cf\'c8\'d1\'ce\'ca}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
-\cs25\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'cb\'c8\'d2\'c5\'d0\'c0\'d2\'d3\'d0\'db}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }
+\par }{\field\fldedit{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 HYPERLINK 
+\\l "_Toc167661196"}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 
+{\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003600000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'d1\'cf\'c8\'d1\'ce\'ca}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\langnp1033\insrsid5067341\charrsid5067341  }{\rtlch\fcs1 \af0\afs36 
+\ltrch\fcs0 \cs26\fs36\ul\cf2\lang1024\langfe1024\noproof\insrsid5067341\charrsid5067341 \'cb\'c8\'d2\'c5\'d0\'c0\'d2\'d3\'d0\'db}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 \tab }
 {\field\flddirty{\*\fldinst {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341  PAGEREF _Toc167661196 \\h }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
-\fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f0063003100360037003600360031003100390036000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
+\fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300310036003700360036003100310039003600000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 
 \fs36\lang1024\langfe1024\noproof\webhidden\insrsid5067341\charrsid5067341 22}}}\sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj }}\sectd \ltrsect
-\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af31507\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
+\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \fs36\lang1024\langfe1024\loch\af31506\hich\af31506\dbch\af31505\noproof\insrsid5067341\charrsid5067341 
 \par }\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193902 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 
 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 }}\pard\plain \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2193902 \rtlch\fcs1 \af0\afs20\alang1025 
 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 \sectd \ltrsect\pgnrestart\linex0\endnhere\titlepg\sectlinegrid272\sectdefaultcl\sectrsid5122303\sftnbj {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid9771925\charrsid6162066 
 \par }\pard\plain \ltrpar\s2\qc \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid9771925 \rtlch\fcs1 \ab\af0\afs20\alang1025 \ltrch\fcs0 
 \b\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 \page }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\fs32\insrsid9771925\charrsid6162066 {\*\bkmkstart _Toc167661190}\'c2\'c2\'c5
 \'c4\'c5\'cd\'c8\'c5}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\fs32\insrsid12475026\charrsid6162066 {\*\bkmkend _Toc167661190}
-\par }\pard\plain \ltrpar\s37\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7755505 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
+\par }\pard\plain \ltrpar\s38\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7755505 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
 \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7755505\charrsid6162066 {\*\bkmkstart _Toc167661191}\'ce\'ef\'f0\'e5\'e4\'e5\'eb\'e5\'ed\'e8\'e5 SRT-\'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb\'ee\'e2{\*\bkmkend _Toc167661191}
 \par }\pard\plain \ltrpar\s2\qc \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7755505 \rtlch\fcs1 \ab\af0\afs20\alang1025 \ltrch\fcs0 
 \b\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7755505\charrsid6162066 
 \par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7755505 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
 \ltrch\fcs0 \fs32\insrsid7755505\charrsid6162066 SRT (Secure Reliable Transport) \emdash  \'fd\'f2\'ee \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb\'f5, \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'e0\'ed\'ed\'fb\'e9 \'e4
 \'eb\'ff \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e5\'ed\'e8\'ff \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'e9 \'e8 \'e1\'e5\'e7\'ee\'ef\'e0\'f1\'ed\'ee\'e9 \'e4\'ee\'f1\'f2\'e0\'e2\'ea\'e8 \'e0\'f3\'e4\'e8\'ee- \'e8 \'e2\'e8\'e4\'e5\'ee\'ea\'ee\'ed\'f2\'e5\'ed\'f2\'e0 \'f7\'e5
-\'f0\'e5\'e7 \'ed\'e5\'f1\'f2\'e0\'e1\'e8\'eb\'fc\'ed\'fb\'e5 \'f1\'e5\'f2\'e8, \'f2\'e0\'ea\'e8\'e5 \'ea\'e0\'ea \'e8\'ed\'f2\'e5\'f0\'ed\'e5\'f2. \'cf\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'e1\'fb\'eb \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'e0\'ed \'ea\'ee\'ec\'ef\'e0
-\'ed\'e8\'e5\'e9 Haivision \'e8 \'ef\'f0\'e5\'e4\'ed\'e0\'e7\'ed\'e0\'f7\'e5\'ed \'e4\'eb\'ff \'ec\'e8\'ed\'e8\'ec\'e8\'e7\'e0\'f6\'e8\'e8 \'e7\'e0\'e4\'e5\'f0\'e6\'e5\'ea \'e8 \'ef\'ee\'f2\'e5\'f0\'fc \'e4\'e0\'ed\'ed\'fb\'f5 \'ef\'f0\'e8 \'ef\'e5\'f0
-\'e5\'e4\'e0\'f7\'e5 \'e2 \'f0\'e5\'e0\'eb\'fc\'ed\'ee\'ec \'e2\'f0\'e5\'ec\'e5\'ed\'e8. SRT \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2 \'ef\'e5\'f0\'e5\'e4\'ee\'e2\'fb\'e5 \'e0\'eb\'e3\'ee\'f0\'e8\'f2\'ec\'fb \'ea\'ee\'f0\'f0\'e5\'ea\'f6\'e8\'e8 \'ee\'f8
-\'e8\'e1\'ee\'ea \'e8 \'e0\'e4\'e0\'ef\'f2\'e0\'f6\'e8\'e8 \'ea \'e8\'e7\'ec\'e5\'ed\'ff\'fe\'f9\'e8\'ec\'f1\'ff \'f3\'f1\'eb\'ee\'e2\'e8\'ff\'ec \'f1\'e5\'f2\'e8, \'f7\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'e7\'ed\'e0\'f7\'e8\'f2\'e5\'eb\'fc\'ed
-\'ee \'f3\'eb\'f3\'f7\'f8\'e8\'f2\'fc \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'ee \'ef\'ee\'f2\'ee\'ea\'ee\'e2\'ee\'e3\'ee \'e2\'e8\'e4\'e5\'ee \'e8 \'e0\'f3\'e4\'e8\'ee.
-\par 
+\'f0\'e5\'e7 \'ed\'e5\'f1\'f2\'e0\'e1\'e8\'eb\'fc\'ed\'fb\'e5 \'f1\'e5\'f2\'e8, \'f2\'e0\'ea\'e8\'e5 \'ea\'e0\'ea \'e8\'ed\'f2\'e5\'f0\'ed\'e5\'f2. \'cf\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'e1\'fb\'eb }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12600791 
+\'e8\'e7\'ed\'e0\'f7\'e0\'eb\'fc\'ed\'ee }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7755505\charrsid6162066 \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'e0\'ed \'ea\'ee\'ec\'ef\'e0\'ed\'e8\'e5\'e9 Haivision \'e8 \'ef\'f0\'e5\'e4\'ed\'e0\'e7\'ed\'e0\'f7\'e5
+\'ed \'e4\'eb\'ff \'ec\'e8\'ed\'e8\'ec\'e8\'e7\'e0\'f6\'e8\'e8 \'e7\'e0\'e4\'e5\'f0\'e6\'e5\'ea \'e8 \'ef\'ee\'f2\'e5\'f0\'fc \'e4\'e0\'ed\'ed\'fb\'f5 \'ef\'f0\'e8 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e5 \'e2 \'f0\'e5\'e0\'eb\'fc\'ed\'ee\'ec \'e2\'f0\'e5\'ec\'e5
+\'ed\'e8. SRT \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2 \'ef\'e5\'f0\'e5\'e4\'ee\'e2\'fb\'e5 \'e0\'eb\'e3\'ee\'f0\'e8\'f2\'ec\'fb \'ea\'ee\'f0\'f0\'e5\'ea\'f6\'e8\'e8 \'ee\'f8\'e8\'e1\'ee\'ea \'e8 \'e0\'e4\'e0\'ef\'f2\'e0\'f6\'e8\'e8 \'ea \'e8\'e7\'ec\'e5
+\'ed\'ff\'fe\'f9\'e8\'ec\'f1\'ff \'f3\'f1\'eb\'ee\'e2\'e8\'ff\'ec \'f1\'e5\'f2\'e8, \'f7\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'e7\'ed\'e0\'f7\'e8\'f2\'e5\'eb\'fc\'ed\'ee \'f3\'eb\'f3\'f7\'f8\'e8\'f2\'fc \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'ee \'ef\'ee
+\'f2\'ee\'ea\'ee\'e2\'ee\'e3\'ee \'e2\'e8\'e4\'e5\'ee \'e8 \'e0\'f3\'e4\'e8\'ee.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12600791  \'cd\'e0 \'e4\'e0\'ed\'ed\'fb\'e9 \'ec\'ee\'ec\'e5\'ed\'f2 \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'e1\'fb\'eb \'ef\'e5
+\'f0\'e5\'e4\'e0\'ed \'e2 }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid12600791 SRT}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12600791\charrsid12600791  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\fs32\lang1033\langfe1049\langnp1033\insrsid12600791 Alliance}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12600791  \endash  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid12600791 Open}{\rtlch\fcs1 \af0\afs32 
+\ltrch\fcs0 \fs32\insrsid12600791\charrsid12600791  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid12600791 Source}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12600791  \'ef\'f0\'ee\'e5\'ea\'f2, \'ea\'ee\'f2\'ee\'f0
+\'fb\'e9 \'ef\'f0\'ee\'e4\'ee\'eb\'e6\'e0\'e5\'f2 \'e5\'e3\'ee \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'ea\'f3 \'e8 \'f3\'eb\'f3\'f7\'f8\'e5\'ed\'e8\'e5.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7755505\charrsid12600791 
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7755505\charrsid6162066 
 \par \'c7\'ed\'e0\'f7\'e5\'ed\'e8\'e5 \'e8 \'e0\'ea\'f2\'f3\'e0\'eb\'fc\'ed\'ee\'f1\'f2\'fc \'f2\'e5\'ec\'fb
 \par 
 \par \'c2 \'f1\'ee\'e2\'f0\'e5\'ec\'e5\'ed\'ed\'ee\'ec \'ec\'e8\'f0\'e5 \'ec\'e5\'e4\'e8\'e0\'f2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e9, \'e3\'e4\'e5 \'ef\'ee\'f2\'ee\'ea\'ee\'e2\'e0\'ff \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e0 \'e4\'e0\'ed\'ed\'fb\'f5 \'e8\'e3\'f0\'e0
@@ -309,8 +318,8 @@ V. \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7755505\charrsid6162066 \'d2\'e0\'ea\'e8\'ec \'ee\'e1\'f0\'e0\'e7\'ee\'ec, \'e8\'e7\'f3\'f7\'e5\'ed\'e8\'e5 SRT-\'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb\'ee\'e2 \'ed\'e5 \'f2\'ee\'eb\'fc\'ea\'ee \'ef\'ee\'ec\'ee
 \'e3\'e0\'e5\'f2 \'ef\'ee\'ed\'ff\'f2\'fc \'f1\'ee\'e2\'f0\'e5\'ec\'e5\'ed\'ed\'fb\'e5 \'f2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e8 \'ef\'ee\'f2\'ee\'ea\'ee\'e2\'ee\'e9 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb\'f5, \'ed\'ee \'e8 \'ee\'f2\'ea\'f0
 \'fb\'e2\'e0\'e5\'f2 \'ed\'ee\'e2\'fb\'e5 \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'e8 \'e4\'eb\'ff \'e8\'f5 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'e3\'ee \'ef\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'ff \'e2 \'f1\'e0\'ec\'fb\'f5 \'f0\'e0\'e7\'eb\'e8\'f7\'ed
-\'fb\'f5 \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'f5.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid9771925\charrsid6162066 \page }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs40\fs32\insrsid7755505\charrsid6162066 I}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\cs40\fs32\insrsid9771925\charrsid6162066 . }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs40\fs32\insrsid7755505\charrsid6162066 \'c8\'f1\'f2\'ee\'f0\'e8\'ff \'d0\'e0\'e7\'e2\'e8\'f2\'e8\'ff SRT}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\'fb\'f5 \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'f5.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid9771925\charrsid6162066 \page }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs39\fs32\insrsid7755505\charrsid6162066 I}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\cs39\fs32\insrsid9771925\charrsid6162066 . }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs39\fs32\insrsid7755505\charrsid6162066 \'c8\'f1\'f2\'ee\'f0\'e8\'ff \'d0\'e0\'e7\'e2\'e8\'f2\'e8\'ff SRT}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
 \fs32\insrsid12475026\charrsid6162066 
 \par }\pard \ltrpar\qj \fi720\li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9771925 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14683421 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid14683421\charrsid6162066 1. \'cf\'f0\'e5\'e4\'ef\'ee\'f1\'fb\'eb\'ea\'e8 \'e8 \'ed\'e5
@@ -387,9 +396,9 @@ V. \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e
 \'ee\'e8 \'ef\'f0\'ee\'e4\'f3\'ea\'f2\'fb \'e8 \'f1\'e5\'f0\'e2\'e8\'f1\'fb, \'f7\'f2\'ee \'f1\'ef\'ee\'f1\'ee\'e1\'f1\'f2\'e2\'ee\'e2\'e0\'eb\'ee \'e5\'e3\'ee \'e4\'e0\'eb\'fc\'ed\'e5\'e9\'f8\'e5\'ec\'f3 \'f0\'e0\'f1\'ef\'f0\'ee\'f1\'f2\'f0\'e0\'ed\'e5
 \'ed\'e8\'fe.
 \par 
-\par \'c2 \'fd\'f2\'ee \'e2\'f0\'e5\'ec\'ff SRT \'e1\'fb\'eb \'e8\'ed\'f2\'e5\'e3\'f0\'e8\'f0\'ee\'e2\'e0\'ed \'e2 \'f2\'e0\'ea\'e8\'e5 \'ef\'ee\'ef\'f3\'eb\'ff\'f0\'ed\'fb\'e5 \'ef\'eb\'e0\'f2\'f4\'ee\'f0\'ec\'fb, \'ea\'e0\'ea Wowza, OBS Studio \'e8 
-Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'ee \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'fc \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'e4\'eb\'ff \'f8\'e8\'f0\'ee\'ea\'ee\'e3\'ee \'f1\'ef\'e5\'ea\'f2\'f0\'e0 \'ef\'f0\'e8\'eb
-\'ee\'e6\'e5\'ed\'e8\'e9, \'ee\'f2 \'ef\'f0\'ff\'ec\'fb\'f5 \'f2\'f0\'e0\'ed\'f1\'eb\'ff\'f6\'e8\'e9 \'e8 \'e2\'e8\'e4\'e5\'ee\'ea\'ee\'ed\'f4\'e5\'f0\'e5\'ed\'f6\'e8\'e9 \'e4\'ee OTT (Over-the-Top) \'f1\'e5\'f0\'e2\'e8\'f1\'ee\'e2 \'e8
+\par \'c2 \'fd\'f2\'ee \'e2\'f0\'e5\'ec\'ff SRT \'e1\'fb\'eb \'e8\'ed\'f2\'e5\'e3\'f0\'e8\'f0\'ee\'e2\'e0\'ed \'e2 \'f2\'e0\'ea\'e8\'e5 \'ef\'ee\'ef\'f3\'eb\'ff\'f0\'ed\'fb\'e5 \'ef\'eb\'e0\'f2\'f4\'ee\'f0\'ec\'fb, \'ea\'e0\'ea Wowza, OBS Studio \'e8
+ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'ee \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'fc \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'e4\'eb\'ff \'f8\'e8\'f0\'ee\'ea\'ee\'e3\'ee \'f1\'ef\'e5\'ea\'f2\'f0\'e0 \'ef\'f0\'e8
+\'eb\'ee\'e6\'e5\'ed\'e8\'e9, \'ee\'f2 \'ef\'f0\'ff\'ec\'fb\'f5 \'f2\'f0\'e0\'ed\'f1\'eb\'ff\'f6\'e8\'e9 \'e8 \'e2\'e8\'e4\'e5\'ee\'ea\'ee\'ed\'f4\'e5\'f0\'e5\'ed\'f6\'e8\'e9 \'e4\'ee OTT (Over-the-Top) \'f1\'e5\'f0\'e2\'e8\'f1\'ee\'e2 \'e8
  CDN (Content Delivery Network). \'c1\'eb\'e0\'e3\'ee\'e4\'e0\'f0\'ff \'e0\'ea\'f2\'e8\'e2\'ed\'ee\'e9 \'f0\'e0\'e1\'ee\'f2\'e5 SRT Alliance \'e8 \'ef\'ee\'e4\'e4\'e5\'f0\'e6\'ea\'e5 \'f1\'ee\'ee\'e1\'f9\'e5\'f1\'f2\'e2\'e0 \'f0\'e0\'e7\'f0\'e0\'e1\'ee
 \'f2\'f7\'e8\'ea\'ee\'e2, \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'ef\'f0\'ee\'e4\'ee\'eb\'e6\'e0\'eb \'f1\'ee\'e2\'e5\'f0\'f8\'e5\'ed\'f1\'f2\'e2\'ee\'e2\'e0\'f2\'fc\'f1\'ff \'e8 \'e0\'e4\'e0\'ef\'f2\'e8\'f0\'ee\'e2\'e0\'f2\'fc\'f1\'ff \'ea \'ed\'ee\'e2\'fb
 \'ec \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff\'ec \'f0\'fb\'ed\'ea\'e0.
@@ -501,13 +510,108 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \'e2\'ee\'eb\'ff\'e5\'f2 \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'f2\'fc SRT \'e2 \'f1\'e0\'ec\'fb\'f5 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'ff\'f5 \'e8 \'f3\'f1\'f2\'f0\'ee\'e9\'f1\'f2\'e2\'e0\'f5. \'c1\'eb\'e0\'e3
 \'ee\'e4\'e0\'f0\'ff \'fd\'f2\'ee\'ec\'f3, \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'f7\'e8\'ea\'e8 \'ec\'ee\'e3\'f3\'f2 \'eb\'e5\'e3\'ea\'ee \'e8\'ed\'f2\'e5\'e3\'f0\'e8\'f0\'ee\'e2\'e0\'f2\'fc SRT \'e2 \'f1\'e2\'ee\'e8 \'f0\'e5\'f8\'e5\'ed\'e8\'ff, \'ed\'e5\'e7
 \'e0\'e2\'e8\'f1\'e8\'ec\'ee \'ee\'f2 \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'ec\'ee\'e9 \'ef\'eb\'e0\'f2\'f4\'ee\'f0\'ec\'fb, \'f7\'f2\'ee \'e4\'e5\'eb\'e0\'e5\'f2 \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'f7\'f0\'e5\'e7\'e2\'fb\'f7\'e0\'e9\'ed\'ee \'e3\'e8\'e1
-\'ea\'e8\'ec \'e8 \'f3\'e4\'ee\'e1\'ed\'fb\'ec \'e2 \'ef\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'e8.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 
-\par }\pard\plain \ltrpar\s37\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid4530794\charrsid6162066 \page }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7755505\charrsid6162066 \line }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\f0\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 {\*\bkmkstart _Toc167661192}III}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 . \'cf\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'e5 SRT \'e2 \'f0\'e0\'e7\'eb\'e8\'f7
-\'ed\'fb\'f5 \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'f5{\*\bkmkend _Toc167661192}
-\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
-\ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
+\'ea\'e8\'ec \'e8 \'f3\'e4\'ee\'e1\'ed\'fb\'ec \'e2 \'ef\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'e8.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026 
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard\plain \ltrpar\s38\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid13392129 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
+\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid13392129 III}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid13392129\charrsid13392129 . }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\f0\fs32\insrsid13392129\charrsid13392129 \'ca\'e0\'ea }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid13392129\charrsid13392129 SRT }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid13392129\charrsid13392129 \'ef
+\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'f0\'e0\'e1\'ee\'f2\'e0\'e5\'f2
+\par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13392129 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
+\ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15289091 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 1. ARQ \'e2 SRT
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13392129 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 
+\par ARQ (Automatic Repeat reQuest) \emdash  \'fd\'f2\'ee \'ec\'e5\'f2\'ee\'e4, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'ec\'fb\'e9 \'e2 \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb\'e0\'f5 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb\'f5 \'e4\'eb\'ff \'ee\'e1\'e5
+\'f1\'ef\'e5\'f7\'e5\'ed\'e8\'ff \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'f1\'f2\'e8. \'c2 SRT (Secure Reliable Transport) ARQ \'e8\'e3\'f0\'e0\'e5\'f2 \'e2\'e0\'e6\'ed\'f3\'fe \'f0\'ee\'eb\'fc \'e2 \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e5\'ed\'e8\'e8 \'e4\'ee\'f1\'f2\'e0
+\'e2\'ea\'e8 \'e2\'f1\'e5\'f5 \'ef\'e0\'ea\'e5\'f2\'ee\'e2 \'e1\'e5\'e7 \'ef\'ee\'f2\'e5\'f0\'fc. \'cf\'f0\'e8\'ed\'f6\'e8\'ef \'f0\'e0\'e1\'ee\'f2\'fb ARQ \'e7\'e0\'ea\'eb\'fe\'f7\'e0\'e5\'f2\'f1\'ff \'e2 \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'e5\'ec:
+\par 
+\par \'cf\'f0\'ee\'e2\'e5\'f0\'ea\'e0 \'f6\'e5\'eb\'ee\'f1\'f2\'ed\'ee\'f1\'f2\'e8 \'e4\'e0\'ed\'ed\'fb\'f5: \'cf\'f0\'e8\'e5\'ec\'ed\'e8\'ea \'ef\'f0\'ee\'e2\'e5\'f0\'ff\'e5\'f2 \'ef\'ee\'eb\'f3\'f7\'e5\'ed\'ed\'fb\'e5 \'ef\'e0\'ea\'e5\'f2\'fb \'ed\'e0 \'ed
+\'e0\'eb\'e8\'f7\'e8\'e5 \'ee\'f8\'e8\'e1\'ee\'ea. \'c5\'f1\'eb\'e8 \'ef\'e0\'ea\'e5\'f2 \'ef\'f0\'e8\'ed\'ff\'f2 \'ea\'ee\'f0\'f0\'e5\'ea\'f2\'ed\'ee, \'ef\'f0\'e8\'e5\'ec\'ed\'e8\'ea \'ee\'f2\'ef\'f0\'e0\'e2\'eb\'ff\'e5\'f2 \'ef\'ee\'e4\'f2\'e2\'e5\'f0
+\'e6\'e4\'e5\'ed\'e8\'e5 (ACK) \'ee\'e1\'f0\'e0\'f2\'ed\'ee \'ee\'f2\'ef\'f0\'e0\'e2\'e8\'f2\'e5\'eb\'fe. \'c2 \'f1\'eb\'f3\'f7\'e0\'e5 \'ee\'e1\'ed\'e0\'f0\'f3\'e6\'e5\'ed\'e8\'ff \'ee\'f8\'e8\'e1\'ea\'e8, \'ef\'e0\'ea\'e5\'f2 \'ed\'e5 \'ef\'ee\'e4\'f2
+\'e2\'e5\'f0\'e6\'e4\'e0\'e5\'f2\'f1\'ff.
+\par 
+\par \'cf\'ee\'e2\'f2\'ee\'f0\'ed\'e0\'ff \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e0: \'c5\'f1\'eb\'e8 \'ee\'f2\'ef\'f0\'e0\'e2\'e8\'f2\'e5\'eb\'fc \'ed\'e5 \'ef\'ee\'eb\'f3\'f7\'e0\'e5\'f2 \'ef\'ee\'e4\'f2\'e2\'e5\'f0\'e6\'e4\'e5\'ed\'e8\'ff \'ee \'ef\'ee\'eb\'f3\'f7
+\'e5\'ed\'e8\'e8 \'ef\'e0\'ea\'e5\'f2\'e0 \'e2 \'f2\'e5\'f7\'e5\'ed\'e8\'e5 \'ee\'ef\'f0\'e5\'e4\'e5\'eb\'e5\'ed\'ed\'ee\'e3\'ee \'e2\'f0\'e5\'ec\'e5\'ed\'e8, \'ee\'ed \'ef\'ee\'e2\'f2\'ee\'f0\'ed\'ee \'ee\'f2\'ef\'f0\'e0\'e2\'eb\'ff\'e5\'f2 \'fd\'f2\'ee
+\'f2 \'ef\'e0\'ea\'e5\'f2. \'dd\'f2\'ee\'f2 \'ef\'f0\'ee\'f6\'e5\'f1\'f1 \'ef\'ee\'e2\'f2\'ee\'f0\'ff\'e5\'f2\'f1\'ff \'e4\'ee \'f2\'e5\'f5 \'ef\'ee\'f0, \'ef\'ee\'ea\'e0 \'ef\'e0\'ea\'e5\'f2 \'ed\'e5 \'e1\'f3\'e4\'e5\'f2 \'f3\'f1\'ef\'e5\'f8\'ed\'ee \'e4
+\'ee\'f1\'f2\'e0\'e2\'eb\'e5\'ed \'e8 \'ef\'ee\'e4\'f2\'e2\'e5\'f0\'e6\'e4\'e5\'ed.
+\par 
+\par \'d3\'ef\'f0\'e0\'e2\'eb\'e5\'ed\'e8\'e5 \'ef\'ee\'f2\'ee\'ea\'ee\'ec: ARQ \'e2 SRT \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2 \'f1\'ea\'ee\'eb\'fc\'e7\'ff\'f9\'e5\'e5 \'ee\'ea\'ed\'ee (sliding window) \'e4\'eb\'ff \'f3\'ef\'f0\'e0\'e2\'eb\'e5\'ed\'e8\'ff 
+\'ef\'ee\'f2\'ee\'ea\'ee\'ec \'e4\'e0\'ed\'ed\'fb\'f5. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'ee\'f2\'ef\'f0\'e0\'e2\'e8\'f2\'e5\'eb\'fe \'ee\'f2\'ef\'f0\'e0\'e2\'eb\'ff\'f2\'fc \'ed\'e5\'f1\'ea\'ee\'eb\'fc\'ea\'ee \'ef\'e0\'ea\'e5\'f2\'ee
+\'e2 \'e4\'ee \'ef\'ee\'eb\'f3\'f7\'e5\'ed\'e8\'ff \'ef\'ee\'e4\'f2\'e2\'e5\'f0\'e6\'e4\'e5\'ed\'e8\'e9, \'f7\'f2\'ee \'ef\'ee\'e2\'fb\'f8\'e0\'e5\'f2 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'f1\'f2\'fc \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed
+\'fb\'f5.
+\par 
+\par ARQ \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'e5\'f2 \'ed\'e0\'e4\'e5\'e6\'ed\'f3\'fe \'e4\'ee\'f1\'f2\'e0\'e2\'ea\'f3 \'e4\'e0\'ed\'ed\'fb\'f5, \'ed\'ee \'ec\'ee\'e6\'e5\'f2 \'f3\'e2\'e5\'eb\'e8\'f7\'e8\'f2\'fc \'e7\'e0\'e4\'e5\'f0\'e6\'ea\'f3 \'e2 \'f3
+\'f1\'eb\'ee\'e2\'e8\'ff\'f5 \'e2\'fb\'f1\'ee\'ea\'ee\'e9 \'ef\'ee\'f2\'e5\'f0\'e8 \'ef\'e0\'ea\'e5\'f2\'ee\'e2, \'ef\'ee\'f1\'ea\'ee\'eb\'fc\'ea\'f3 \'ef\'ee\'e2\'f2\'ee\'f0\'ed\'e0\'ff \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e0 \'f2\'f0\'e5\'e1\'f3\'e5\'f2 \'e4
+\'ee\'ef\'ee\'eb\'ed\'e8\'f2\'e5\'eb\'fc\'ed\'ee\'e3\'ee \'e2\'f0\'e5\'ec\'e5\'ed\'e8.
+\par 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15289091 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 2. FEC \'e2 SRT
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13392129 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 
+\par FEC (Forward Error Correction) \emdash  \'fd\'f2\'ee \'ec\'e5\'f2\'ee\'e4, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'ec\'fb\'e9 \'e4\'eb\'ff \'ea\'ee\'f0\'f0\'e5\'ea\'f6\'e8\'e8 \'ee\'f8\'e8\'e1\'ee\'ea \'ed\'e0 \'f1\'f2\'ee\'f0\'ee\'ed\'e5 \'ef\'f0\'e8\'e5
+\'ec\'ed\'e8\'ea\'e0 \'e1\'e5\'e7 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee\'f1\'f2\'e8 \'ef\'ee\'e2\'f2\'ee\'f0\'ed\'ee\'e9 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'ef\'e0\'ea\'e5\'f2\'ee\'e2. \'c2 SRT FEC \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2\'f1\'ff \'e2 
+\'e4\'ee\'ef\'ee\'eb\'ed\'e5\'ed\'e8\'e5 \'ea ARQ \'e4\'eb\'ff \'ef\'ee\'e2\'fb\'f8\'e5\'ed\'e8\'ff \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'f1\'f2\'e8 \'e8 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'f1\'f2\'e8 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb
+\'f5. \'cf\'f0\'e8\'ed\'f6\'e8\'ef \'f0\'e0\'e1\'ee\'f2\'fb FEC \'e7\'e0\'ea\'eb\'fe\'f7\'e0\'e5\'f2\'f1\'ff \'e2 \'f1\'eb\'e5\'e4\'f3\'fe\'f9\'e5\'ec:
+\par 
+\par \'c4\'ee\'e1\'e0\'e2\'eb\'e5\'ed\'e8\'e5 \'e8\'e7\'e1\'fb\'f2\'ee\'f7\'ed\'ee\'f1\'f2\'e8: \'cf\'f0\'e8 \'ee\'f2\'ef\'f0\'e0\'e2\'ea\'e5 \'e4\'e0\'ed\'ed\'fb\'f5 \'ee\'f2\'ef\'f0\'e0\'e2\'e8\'f2\'e5\'eb\'fc \'e4\'ee\'e1\'e0\'e2\'eb\'ff\'e5\'f2 \'ea \'ea
+\'e0\'e6\'e4\'ee\'ec\'f3 \'e1\'eb\'ee\'ea\'f3 \'e4\'e0\'ed\'ed\'fb\'f5 \'e4\'ee\'ef\'ee\'eb\'ed\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'e5 \'e8\'e7\'e1\'fb\'f2\'ee\'f7\'ed\'fb\'e5 \'e1\'e8\'f2\'fb. \'dd\'f2\'e8 \'e1\'e8\'f2\'fb \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'fe
+\'f2\'f1\'ff \'e4\'eb\'ff \'ee\'e1\'ed\'e0\'f0\'f3\'e6\'e5\'ed\'e8\'ff \'e8 \'ea\'ee\'f0\'f0\'e5\'ea\'f6\'e8\'e8 \'ee\'f8\'e8\'e1\'ee\'ea \'ed\'e0 \'f1\'f2\'ee\'f0\'ee\'ed\'e5 \'ef\'f0\'e8\'e5\'ec\'ed\'e8\'ea\'e0.
+\par 
+\par \'ce\'e1\'ed\'e0\'f0\'f3\'e6\'e5\'ed\'e8\'e5 \'e8 \'ea\'ee\'f0\'f0\'e5\'ea\'f6\'e8\'ff \'ee\'f8\'e8\'e1\'ee\'ea: \'cf\'f0\'e8\'e5\'ec\'ed\'e8\'ea \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2 \'e8\'e7\'e1\'fb\'f2\'ee\'f7\'ed\'fb\'e5 \'e1\'e8\'f2\'fb \'e4\'eb
+\'ff \'ef\'f0\'ee\'e2\'e5\'f0\'ea\'e8 \'f6\'e5\'eb\'ee\'f1\'f2\'ed\'ee\'f1\'f2\'e8 \'ef\'ee\'eb\'f3\'f7\'e5\'ed\'ed\'fb\'f5 \'e4\'e0\'ed\'ed\'fb\'f5. \'c5\'f1\'eb\'e8 \'ee\'e1\'ed\'e0\'f0\'f3\'e6\'e8\'e2\'e0\'fe\'f2\'f1\'ff \'ee\'f8\'e8\'e1\'ea\'e8, \'ef
+\'f0\'e8\'e5\'ec\'ed\'e8\'ea \'ec\'ee\'e6\'e5\'f2 \'e8\'f1\'ef\'f0\'e0\'e2\'e8\'f2\'fc \'e8\'f5, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'ff \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'fe \'e8\'e7 \'e8\'e7\'e1\'fb\'f2\'ee\'f7\'ed\'fb\'f5 \'e1\'e8\'f2\'ee\'e2, \'e1\'e5
+\'e7 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee\'f1\'f2\'e8 \'e7\'e0\'ef\'f0\'e0\'f8\'e8\'e2\'e0\'f2\'fc \'ef\'ee\'e2\'f2\'ee\'f0\'ed\'f3\'fe \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'f3 \'ef\'e0\'ea\'e5\'f2\'e0.
+\par 
+\par FEC \'ee\'f1\'ee\'e1\'e5\'ed\'ed\'ee \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'e5\'ed \'e2 \'f3\'f1\'eb\'ee\'e2\'e8\'ff\'f5 \'ed\'e8\'e7\'ea\'ee\'e9 \'e8 \'f1\'f0\'e5\'e4\'ed\'e5\'e9 \'ef\'ee\'f2\'e5\'f0\'e8 \'ef\'e0\'ea\'e5\'f2\'ee\'e2, \'ef\'ee\'f1\'ea\'ee\'eb
+\'fc\'ea\'f3 \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'e8\'e7\'e1\'e5\'e6\'e0\'f2\'fc \'e7\'e0\'e4\'e5\'f0\'e6\'e5\'ea, \'f1\'e2\'ff\'e7\'e0\'ed\'ed\'fb\'f5 \'f1 \'ef\'ee\'e2\'f2\'ee\'f0\'ed\'ee\'e9 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e5\'e9 \'ef\'e0\'ea\'e5\'f2
+\'ee\'e2. \'ce\'e4\'ed\'e0\'ea\'ee \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'ed\'e8\'e5 FEC \'f3\'e2\'e5\'eb\'e8\'f7\'e8\'e2\'e0\'e5\'f2 \'ee\'e1\'fa\'e5\'ec \'ef\'e5\'f0\'e5\'e4\'e0\'e2\'e0\'e5\'ec\'fb\'f5 \'e4\'e0\'ed\'ed\'fb\'f5 \'e7\'e0 \'f1\'f7\'e5
+\'f2 \'e4\'ee\'e1\'e0\'e2\'eb\'e5\'ed\'e8\'ff \'e8\'e7\'e1\'fb\'f2\'ee\'f7\'ed\'ee\'e9 \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'e8.
+\par 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15289091 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 3. \'c1\'e0\'f4\'f4\'e5\'f0 \'e2 SRT
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13392129 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13392129\charrsid13392129 
+\par \'c1\'e0\'f4\'f4\'e5\'f0 (\'e8\'eb\'e8 \'e1\'f3\'f4\'e5\'f0) \'e2 SRT \'ff\'e2\'eb\'ff\'e5\'f2\'f1\'ff \'e2\'e0\'e6\'ed\'fb\'ec \'ea\'ee\'ec\'ef\'ee\'ed\'e5\'ed\'f2\'ee\'ec, \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'fe\'f9\'e8\'ec \'ed\'e0\'e4\'e5\'e6\'ed
+\'ee\'f1\'f2\'fc \'e8 \'f1\'f2\'e0\'e1\'e8\'eb\'fc\'ed\'ee\'f1\'f2\'fc \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb\'f5. \'ce\'f1\'ed\'ee\'e2\'ed\'fb\'e5 \'e0\'f1\'ef\'e5\'ea\'f2\'fb \'f0\'e0\'e1\'ee\'f2\'fb \'e1\'e0\'f4\'f4\'e5\'f0\'e0 \'e2 SRT 
+\'e2\'ea\'eb\'fe\'f7\'e0\'fe\'f2:
+\par 
+\par \'d4\'e8\'ea\'f1\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'fb\'e9 \'f0\'e0\'e7\'ec\'e5\'f0 \'e1\'e0\'f4\'f4\'e5\'f0\'e0: \'c2 SRT \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2\'f1\'ff \'f4\'e8\'ea\'f1\'e8\'f0\'ee\'e2\'e0\'ed\'ed\'fb\'e9, \'f7\'e0\'f1\'f2\'ee \'e4\'ee\'f1
+\'f2\'e0\'f2\'ee\'f7\'ed\'ee \'e1\'ee\'eb\'fc\'f8\'ee\'e9 \'e1\'e0\'f4\'f4\'e5\'f0 \'e4\'eb\'ff \'e2\'f0\'e5\'ec\'e5\'ed\'ed\'ee\'e3\'ee \'f5\'f0\'e0\'ed\'e5\'ed\'e8\'ff \'e4\'e0\'ed\'ed\'fb\'f5. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'ea\'ee
+\'ec\'ef\'e5\'ed\'f1\'e8\'f0\'ee\'e2\'e0\'f2\'fc \'e2\'e0\'f0\'e8\'e0\'f6\'e8\'e8 \'e7\'e0\'e4\'e5\'f0\'e6\'ea\'e8 (\'e4\'e6\'e8\'f2\'f2\'e5\'f0\'e0) \'e8 \'ef\'ee\'f2\'e5\'f0\'e8 \'ef\'e0\'ea\'e5\'f2\'ee\'e2 \'e2 \'f1\'e5\'f2\'e8.
+\par 
+\par \'d1\'e3\'eb\'e0\'e6\'e8\'e2\'e0\'ed\'e8\'e5 \'e7\'e0\'e4\'e5\'f0\'e6\'e5\'ea: \'c1\'e0\'f4\'f4\'e5\'f0 \'ef\'ee\'ec\'ee\'e3\'e0\'e5\'f2 \'f1\'e3\'eb\'e0\'e6\'e8\'e2\'e0\'f2\'fc \'ea\'ee\'eb\'e5\'e1\'e0\'ed\'e8\'ff \'e7\'e0\'e4\'e5\'f0\'e6\'ea\'e8, \'f7
+\'f2\'ee \'ee\'f1\'ee\'e1\'e5\'ed\'ed\'ee \'e2\'e0\'e6\'ed\'ee \'e4\'eb\'ff \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e0\'f3\'e4\'e8\'ee- \'e8 \'e2\'e8\'e4\'e5\'ee\'ef\'ee\'f2\'ee\'ea\'ee\'e2. \'cd\'e0\'ea\'ee\'ef\'eb\'e5\'ed\'e8\'e5 \'e4\'e0\'ed\'ed\'fb\'f5 
+\'e2 \'e1\'f3\'f4\'e5\'f0\'e5 \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'ef\'ee\'e4\'e4\'e5\'f0\'e6\'e8\'e2\'e0\'f2\'fc \'f1\'f2\'e0\'e1\'e8\'eb\'fc\'ed\'fb\'e9 \'ef\'ee\'f2\'ee\'ea \'e4\'e0\'ed\'ed\'fb\'f5 \'ea \'ea\'ee\'ed\'e5\'f7\'ed\'ee\'ec\'f3 \'ef\'f0
+\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'fe.
+\par 
+\par \'d3\'ec\'e5\'ed\'fc\'f8\'e5\'ed\'e8\'e5 \'ef\'ee\'f2\'e5\'f0\'fc \'ef\'e0\'ea\'e5\'f2\'ee\'e2: \'c1\'e0\'f4\'f4\'e5\'f0 \'e2 SRT \'f2\'e0\'ea\'e6\'e5 \'e8\'e3\'f0\'e0\'e5\'f2 \'f0\'ee\'eb\'fc \'e2 \'f3\'ec\'e5\'ed\'fc\'f8\'e5\'ed\'e8\'e8 \'ef\'ee\'f2\'e5
+\'f0\'fc \'ef\'e0\'ea\'e5\'f2\'ee\'e2, \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'ff \'f5\'f0\'e0\'ed\'e8\'f2\'fc \'e4\'e0\'ed\'ed\'fb\'e5 \'e4\'ee \'e8\'f5 \'f3\'f1\'ef\'e5\'f8\'ed\'ee\'e9 \'e4\'ee\'f1\'f2\'e0\'e2\'ea\'e8. \'c2 \'f1\'eb\'f3\'f7\'e0\'e5 \'ef\'ee\'f2
+\'e5\'f0\'e8 \'ef\'e0\'ea\'e5\'f2\'e0 SRT \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2 \'e4\'e0\'ed\'ed\'fb\'e5 \'e8\'e7 \'e1\'e0\'f4\'f4\'e5\'f0\'e0 \'e4\'eb\'ff \'ef\'ee\'e2\'f2\'ee\'f0\'ed\'ee\'e9 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8, \'f7\'f2\'ee \'ec\'e8\'ed
+\'e8\'ec\'e8\'e7\'e8\'f0\'f3\'e5\'f2 \'ef\'ee\'f2\'e5\'f0\'e8 \'e8 \'f3\'eb\'f3\'f7\'f8\'e0\'e5\'f2 \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'ee \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8.
+\par 
+\par \'c0\'e4\'e0\'ef\'f2\'e0\'f6\'e8\'ff \'ea \'f1\'e5\'f2\'e5\'e2\'fb\'ec \'f3\'f1\'eb\'ee\'e2\'e8\'ff\'ec: \'d5\'ee\'f2\'ff \'f0\'e0\'e7\'ec\'e5\'f0 \'e1\'e0\'f4\'f4\'e5\'f0\'e0 \'e2 SRT \'f4\'e8\'ea\'f1\'e8\'f0\'ee\'e2\'e0\'ed, \'e5\'e3\'ee \'ed\'e0\'eb
+\'e8\'f7\'e8\'e5 \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb\'f3 \'e1\'ee\'eb\'e5\'e5 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee \'e0\'e4\'e0\'ef\'f2\'e8\'f0\'ee\'e2\'e0\'f2\'fc\'f1\'ff \'ea \'f2\'e5\'ea\'f3\'f9\'e8\'ec \'f3\'f1
+\'eb\'ee\'e2\'e8\'ff\'ec \'f1\'e5\'f2\'e8. \'dd\'f2\'ee \'ee\'f1\'ee\'e1\'e5\'ed\'ed\'ee \'e2\'e0\'e6\'ed\'ee \'e2 \'f3\'f1\'eb\'ee\'e2\'e8\'ff\'f5 \'ed\'e5\'f1\'f2\'e0\'e1\'e8\'eb\'fc\'ed\'fb\'f5 \'f1\'ee\'e5\'e4\'e8\'ed\'e5\'ed\'e8\'e9, \'e3\'e4\'e5 
+\'ea\'ee\'eb\'e5\'e1\'e0\'ed\'e8\'ff \'e7\'e0\'e4\'e5\'f0\'e6\'ea\'e8 \'e8 \'ef\'ee\'f2\'e5\'f0\'e8 \'ef\'e0\'ea\'e5\'f2\'ee\'e2 \'ec\'ee\'e3\'f3\'f2 \'e1\'fb\'f2\'fc \'e7\'ed\'e0\'f7\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'ec\'e8.}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\insrsid4530794\charrsid6162066 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7755505\charrsid6162066 \line }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \cs39\fs32\lang1033\langfe1049\langnp1033\insrsid13392129 {\*\bkmkstart _Toc167661192}IV}{\rtlch\fcs1 
+\af0\afs32 \ltrch\fcs0 \cs39\fs32\insrsid7419995\charrsid13392129 . \'cf\'f0\'e8\'ec\'e5\'ed\'e5\'ed\'e8\'e5 SRT \'e2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'f5}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7419995\charrsid6162066 
+{\*\bkmkend _Toc167661192}
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
 \par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 A. \'d2\'f0\'e0\'ed\'f1\'eb\'ff\'f6\'e8\'e8 \'e2 \'f0\'e5\'e0\'eb
 \'fc\'ed\'ee\'ec \'e2\'f0\'e5\'ec\'e5\'ed\'e8
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
@@ -554,8 +658,7 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \'f2\'e0\'ea\'e6\'e5 \'ff\'e2\'eb\'ff\'e5\'f2\'f1\'ff \'e7\'ed\'e0\'f7\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'ec \'ef\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'ee\'ec, \'ee\'f1\'ee\'e1\'e5\'ed\'ed\'ee \'ef\'f0\'e8 \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'ed\'e8\'e8
  SRT \'e4\'eb\'ff \'ef\'f0\'ee\'e2\'e5\'e4\'e5\'ed\'e8\'ff \'fd\'ea\'e7\'e0\'ec\'e5\'ed\'ee\'e2 \'e8 \'ee\'e1\'ec\'e5\'ed\'e0 \'ea\'ee\'ed\'f4\'e8\'e4\'e5\'ed\'f6\'e8\'e0\'eb\'fc\'ed\'ee\'e9 \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'e5\'e9. \'c1\'ee\'eb\'e5
 \'e5 \'f2\'ee\'e3\'ee, \'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee\'f1\'f2\'fc \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'ed\'e8\'ff SRT \'ed\'e0 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'ef\'eb\'e0\'f2\'f4\'ee\'f0\'ec\'e0\'f5 \'e8 \'f3\'f1\'f2\'f0\'ee\'e9\'f1\'f2\'e2
-\'e0\'f5 \'e4\'e5\'eb\'e0\'e5\'f2 \'e5\'e3\'ee \'f3\'e4\'ee\'e1\'ed\'fb\'ec \'e8\'ed\'f1\'f2\'f0\'f3\'ec\'e5\'ed\'f2\'ee\'ec \'e4\'eb\'ff \'e4\'e8\'f1\'f2\'e0\'ed\'f6\'e8\'ee\'ed\'ed\'ee\'e3\'ee \'ee\'e1\'f3\'f7\'e5\'ed\'e8\'ff.}{\rtlch\fcs1 \af0\afs32 
-\ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066  
+\'e0\'f5 \'e4\'e5\'eb\'e0\'e5\'f2 \'e5\'e3\'ee \'f3\'e4\'ee\'e1\'ed\'fb\'ec \'e8\'ed\'f1\'f2\'f0\'f3\'ec\'e5\'ed\'f2\'ee\'ec \'e4\'eb\'ff \'e4\'e8\'f1\'f2\'e0\'ed\'f6\'e8\'ee\'ed\'ed\'ee\'e3\'ee \'ee\'e1\'f3\'f7\'e5\'ed\'e8\'ff. 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\insrsid7419995\charrsid6162066 
 \par 
 \par 
@@ -583,9 +686,9 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \par 
 \par 
 \par 
-\par }\pard\plain \ltrpar\s37\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 {\*\bkmkstart _Toc167661193}I}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 V. \'d2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e8
- \'e8 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'fb, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'fe\'f9\'e8\'e5 SRT{\*\bkmkend _Toc167661193}
+\par }\pard\plain \ltrpar\s38\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
+\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid13392129 {\*\bkmkstart _Toc167661193}V}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 . \'d2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e8 \'e8 \'f1\'f2
+\'e0\'ed\'e4\'e0\'f0\'f2\'fb, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'fe\'f9\'e8\'e5 SRT{\*\bkmkend _Toc167661193}
 \par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
 \par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 \'d1\'ee\'e2\'ec\'e5\'f1\'f2\'e8\'ec\'ee\'f1\'f2\'fc \'f1 \'e4\'f0
@@ -614,14 +717,14 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \'ed\'e5\'ed\'e8\'fe \'e8 \'e8\'ed\'f2\'e5\'e3\'f0\'e0\'f6\'e8\'e8 \'e2 \'f0\'e0\'e7\'ed\'ee\'ee\'e1\'f0\'e0\'e7\'ed\'fb\'e5 \'ec\'e5\'e4\'e8\'e0-\'ef\'eb\'e0\'f2\'f4\'ee\'f0\'ec\'fb, \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'ff \'e5\'e4\'e8\'ed\'fb\'e9 
 \'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2 \'e4\'eb\'ff \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e2\'e8\'e4\'e5\'ee \'e8 \'e0\'f3\'e4\'e8\'ee \'e4\'e0\'ed\'ed\'fb\'f5.
 \par 
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
+\par 
 \par 
 \par 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid13450229\charrsid6162066 
-\par }\pard\plain \ltrpar\s37\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 {\*\bkmkstart _Toc167661194}V}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 . \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0
-\'ed\'e8\'f7\'e5\'ed\'e8\'ff SRT{\*\bkmkend _Toc167661194}
+\par }\pard\plain \ltrpar\s38\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
+\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 {\*\bkmkstart _Toc167661194}V}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid13392129 I}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\f0\fs32\insrsid7419995\charrsid6162066 . \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'e8\'ff SRT{\*\bkmkend _Toc167661194}
 \par }\pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
 \par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 A. \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8\'f1\'ef
@@ -660,7 +763,7 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \par \'d2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'ff \'ea \'e2\'fb\'f7\'e8\'f1\'eb\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'ec \'f0\'e5\'f1\'f3\'f0\'f1\'e0\'ec: \'c4\'eb\'ff \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e5\'ed\'e8\'ff \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'f1\'f2\'e8 \'e8 \'e1\'e5\'e7
 \'ee\'ef\'e0\'f1\'ed\'ee\'f1\'f2\'e8 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb\'f5 SRT \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2 \'f1\'eb\'ee\'e6\'ed\'fb\'e5 \'e0\'eb\'e3\'ee\'f0\'e8\'f2\'ec\'fb, \'f7\'f2\'ee \'ec\'ee\'e6\'e5\'f2 \'ef\'ee\'f2
 \'f0\'e5\'e1\'ee\'e2\'e0\'f2\'fc \'e7\'ed\'e0\'f7\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'f5 \'e2\'fb\'f7\'e8\'f1\'eb\'e8\'f2\'e5\'eb\'fc\'ed\'fb\'f5 \'f0\'e5\'f1\'f3\'f0\'f1\'ee\'e2, \'ee\'f1\'ee\'e1\'e5\'ed\'ed\'ee \'ef\'f0\'e8 \'f0\'e0\'e1\'ee\'f2\'e5 \'f1 \'e2
-\'fb\'f1\'ee\'ea\'ee\'ea\'e0\'f7\'e5\'f1\'f2\'e2\'e5\'ed\'ed\'fb\'ec \'e2\'e8\'e4\'e5\'ee.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
+\'fb\'f1\'ee\'ea\'ee\'ea\'e0\'f7\'e5\'f1\'f2\'e2\'e5\'ed\'ed\'fb\'ec \'e2\'e8\'e4\'e5\'ee.
 \par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b\fs32\insrsid7419995\charrsid6162066 
 \par 
 \par 
@@ -673,8 +776,8 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \par 
 \par 
 \par 
-\par }\pard\plain \ltrpar\s37\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid1130057 
+\par }\pard\plain \ltrpar\s38\qc \li0\ri0\sa60\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
+\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid1130057\charrsid12600791 
 \par 
 \par 
 \par 
@@ -695,8 +798,9 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \par 
 \par 
 \par 
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 {\*\bkmkstart _Toc167661195}VI. }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid9771925\charrsid6162066 \'c7\'c0\'ca\'cb\'de\'d7\'c5\'cd\'c8
-\'c5}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid6162066 {\*\bkmkend _Toc167661195}
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 {\*\bkmkstart _Toc167661195}VI}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\lang1033\langfe1049\langnp1033\insrsid13392129 I}{\rtlch\fcs1 
+\af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid7419995\charrsid12600791 . }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f0\fs32\insrsid9771925\charrsid6162066 \'c7\'c0\'ca\'cb\'de\'d7\'c5\'cd\'c8\'c5}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\f0\fs32\insrsid7419995\charrsid6162066 {\*\bkmkend _Toc167661195}
 \par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 SRT (Secure Reliable Transport) \emdash  \'fd\'f2\'ee \'e8\'ed\'ed\'ee\'e2\'e0\'f6\'e8\'ee\'ed\'ed\'fb\'e9 \'ef\'f0\'ee\'f2\'ee\'ea\'ee\'eb, \'ea\'ee\'f2\'ee\'f0\'fb\'e9 \'e2\'ed\'e5\'f1 \'e7\'ed\'e0\'f7
 \'e8\'f2\'e5\'eb\'fc\'ed\'fb\'e9 \'e2\'ea\'eb\'e0\'e4 \'e2 \'f0\'e0\'e7\'e2\'e8\'f2\'e8\'e5 \'f2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'e9 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e0\'f3\'e4\'e8\'ee- \'e8 \'e2\'e8\'e4\'e5\'ee\'e4\'e0\'ed\'ed\'fb\'f5. \'c1\'eb\'e0\'e3
@@ -782,20 +886,20 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \par 
 \par SRT \'e7\'e0\'ed\'e8\'ec\'e0\'e5\'f2 \'e2\'e0\'e6\'ed\'ee\'e5 \'ec\'e5\'f1\'f2\'ee \'e2 \'f1\'ee\'e2\'f0\'e5\'ec\'e5\'ed\'ed\'fb\'f5 \'ec\'e5\'e4\'e8\'e0-\'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f5, \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'ff \'e2\'fb\'f1\'ee\'ea
 \'ee\'e5 \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'ee \'e8 \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'f1\'f2\'fc \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e4\'e0\'ed\'ed\'fb\'f5. \'cf\'f0\'ee\'f2\'ee\'ea\'ee\'eb \'e0\'ea\'f2\'e8\'e2\'ed\'ee \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'e5\'f2\'f1
-\'ff \'e2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'f1\'f6\'e5\'ed\'e0\'f0\'e8\'ff\'f5, \'ee\'f2 \'ef\'f0\'ff\'ec\'fb\'f5 \'f2\'f0\'e0\'ed\'f1\'eb\'ff\'f6\'e8\'e9 \'e8 \'e2\'e8\'e4\'e5\'ee\'ea\'ee\'ed\'f4\'e5\'f0\'e5\'ed\'f6\'e8\'e9 \'e4\'ee
- OTT (Over-the-Top) \'f1\'e5\'f0\'e2\'e8\'f1\'ee\'e2 \'e8 CDN (Content Delivery Network). \'c1\'eb\'e0\'e3\'ee\'e4\'e0\'f0\'ff \'f1\'e2\'ee\'e5\'e9 \'e3\'e8\'e1\'ea\'ee\'f1\'f2\'e8 \'e8 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'f1\'f2\'e8, SRT \'ef\'ee
-\'e7\'e2\'ee\'eb\'ff\'e5\'f2 \'ec\'e5\'e4\'e8\'e0\'ea\'ee\'ec\'ef\'e0\'ed\'e8\'ff\'ec \'ef\'f0\'e5\'e4\'ee\'f1\'f2\'e0\'e2\'eb\'ff\'f2\'fc \'ea\'ee\'ed\'f2\'e5\'ed\'f2 \'e2\'fb\'f1\'ee\'ea\'ee\'e3\'ee \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'e0 \'e4\'e0\'e6\'e5 \'e2
- \'f3\'f1\'eb\'ee\'e2\'e8\'ff\'f5 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'ed\'ee\'e9 \'ef\'f0\'ee\'ef\'f3\'f1\'ea\'ed\'ee\'e9 \'f1\'ef\'ee\'f1\'ee\'e1\'ed\'ee\'f1\'f2\'e8 \'e8 \'e2\'fb\'f1\'ee\'ea\'ee\'e9 \'eb\'e0\'f2\'e5\'ed\'f2\'ed\'ee\'f1\'f2\'e8 \'f1
-\'e5\'f2\'e5\'e9.
+\'ff \'e2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'f1\'f6\'e5\'ed\'e0\'f0\'e8\'ff\'f5, \'ee\'f2 \'ef\'f0\'ff\'ec\'fb\'f5 \'f2\'f0\'e0\'ed\'f1\'eb\'ff\'f6\'e8\'e9 \'e8 \'e2\'e8\'e4\'e5\'ee\'ea\'ee\'ed\'f4\'e5\'f0\'e5\'ed\'f6\'e8\'e9 \'e4\'ee OTT (Over-th
+e-Top) \'f1\'e5\'f0\'e2\'e8\'f1\'ee\'e2 \'e8 CDN (Content Delivery Network). \'c1\'eb\'e0\'e3\'ee\'e4\'e0\'f0\'ff \'f1\'e2\'ee\'e5\'e9 \'e3\'e8\'e1\'ea\'ee\'f1\'f2\'e8 \'e8 \'fd\'f4\'f4\'e5\'ea\'f2\'e8\'e2\'ed\'ee\'f1\'f2\'e8, SRT \'ef\'ee\'e7\'e2\'ee\'eb
+\'ff\'e5\'f2 \'ec\'e5\'e4\'e8\'e0\'ea\'ee\'ec\'ef\'e0\'ed\'e8\'ff\'ec \'ef\'f0\'e5\'e4\'ee\'f1\'f2\'e0\'e2\'eb\'ff\'f2\'fc \'ea\'ee\'ed\'f2\'e5\'ed\'f2 \'e2\'fb\'f1\'ee\'ea\'ee\'e3\'ee \'ea\'e0\'f7\'e5\'f1\'f2\'e2\'e0 \'e4\'e0\'e6\'e5 \'e2 \'f3\'f1\'eb
+\'ee\'e2\'e8\'ff\'f5 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'ed\'ee\'e9 \'ef\'f0\'ee\'ef\'f3\'f1\'ea\'ed\'ee\'e9 \'f1\'ef\'ee\'f1\'ee\'e1\'ed\'ee\'f1\'f2\'e8 \'e8 \'e2\'fb\'f1\'ee\'ea\'ee\'e9 \'eb\'e0\'f2\'e5\'ed\'f2\'ed\'ee\'f1\'f2\'e8 \'f1\'e5\'f2\'e5\'e9
+.
 \par 
 \par \'d1\'ee\'e2\'ec\'e5\'f1\'f2\'e8\'ec\'ee\'f1\'f2\'fc SRT \'f1 \'e4\'f0\'f3\'e3\'e8\'ec\'e8 \'f2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'ff\'ec\'e8 \'ef\'e5\'f0\'e5\'e4\'e0\'f7\'e8 \'e2\'e8\'e4\'e5\'ee \'e8 \'e0\'f3\'e4\'e8\'ee, \'f2\'e0\'ea\'e8\'ec\'e8 \'ea\'e0
 \'ea RTMP, HLS \'e8 MPEG-DASH, \'ee\'e1\'e5\'f1\'ef\'e5\'f7\'e8\'e2\'e0\'e5\'f2 \'e5\'e3\'ee \'f8\'e8\'f0\'ee\'ea\'f3\'fe \'ef\'f0\'e8\'ec\'e5\'ed\'e8\'ec\'ee\'f1\'f2\'fc \'e8 \'eb\'e5\'e3\'ea\'ee\'f1\'f2\'fc \'e8\'ed\'f2\'e5\'e3\'f0\'e0\'f6\'e8\'e8 \'e2 
 \'f3\'e6\'e5 \'f1\'f3\'f9\'e5\'f1\'f2\'e2\'f3\'fe\'f9\'e8\'e5 \'f1\'e8\'f1\'f2\'e5\'ec\'fb. \'dd\'f2\'ee \'e4\'e5\'eb\'e0\'e5\'f2 SRT \'e2\'e0\'e6\'ed\'fb\'ec \'fd\'eb\'e5\'ec\'e5\'ed\'f2\'ee\'ec \'f2\'e5\'ea\'f3\'f9\'e5\'e9 \'ec\'e5\'e4\'e8\'e0\'f2\'e5
 \'f5\'ed\'ee\'eb\'ee\'e3\'e8\'f7\'e5\'f1\'ea\'ee\'e9 \'fd\'ea\'ee\'f1\'e8\'f1\'f2\'e5\'ec\'fb, \'ef\'ee\'e7\'e2\'ee\'eb\'ff\'ff \'f3\'eb\'f3\'f7\'f8\'e0\'f2\'fc \'ef\'f0\'ee\'e8\'e7\'e2\'ee\'e4\'e8\'f2\'e5\'eb\'fc\'ed\'ee\'f1\'f2\'fc \'f1\'f3\'f9\'e5\'f1
 \'f2\'e2\'f3\'fe\'f9\'e8\'f5 \'f0\'e5\'f8\'e5\'ed\'e8\'e9 \'e1\'e5\'e7 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'ee\'f1\'f2\'e8 \'ea\'e0\'f0\'e4\'e8\'ed\'e0\'eb\'fc\'ed\'fb\'f5 \'e8\'e7\'ec\'e5\'ed\'e5\'ed\'e8\'e9 \'e8\'ed\'f4\'f0\'e0\'f1\'f2\'f0\'f3\'ea\'f2
-\'f3\'f0\'fb.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 
+\'f3\'f0\'fb. }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 
 \par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid7419995\charrsid6162066 \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'e8\'ff SRT
+\par \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8 \'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'e8\'ff SRT
 \par 
 \par \'cf\'f0\'e5\'e8\'ec\'f3\'f9\'e5\'f1\'f2\'e2\'e0 \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'ee\'e2\'e0\'ed\'e8\'ff SRT \'ee\'f7\'e5\'e2\'e8\'e4\'ed\'fb: \'e2\'fb\'f1\'ee\'ea\'e0\'ff \'ed\'e0\'e4\'e5\'e6\'ed\'ee\'f1\'f2\'fc, \'e1\'e5\'e7\'ee\'ef\'e0\'f1\'ed\'ee\'f1\'f2
 \'fc, \'e3\'e8\'e1\'ea\'ee\'f1\'f2\'fc, \'ee\'f2\'ea\'f0\'fb\'f2\'ee\'f1\'f2\'fc \'e8 \'f3\'ed\'e8\'e2\'e5\'f0\'f1\'e0\'eb\'fc\'ed\'ee\'f1\'f2\'fc \'e4\'e5\'eb\'e0\'fe\'f2 \'e5\'e3\'ee \'ef\'f0\'e8\'e2\'eb\'e5\'ea\'e0\'f2\'e5\'eb\'fc\'ed\'fb\'ec \'e4\'eb
@@ -830,12 +934,12 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \'f0\'ee\'e4\'ee\'eb\'e6\'e0\'e5\'f2 \'fd\'e2\'ee\'eb\'fe\'f6\'e8\'ee\'ed\'e8\'f0\'ee\'e2\'e0\'f2\'fc, \'ef\'f0\'e5\'e4\'eb\'e0\'e3\'e0\'ff \'e8\'ed\'ed\'ee\'e2\'e0\'f6\'e8\'ee\'ed\'ed\'fb\'e5 \'f0\'e5\'f8\'e5\'ed\'e8\'ff \'e4\'eb\'ff \'ef\'ee\'f1\'f2\'ee
 \'ff\'ed\'ed\'ee \'ec\'e5\'ed\'ff\'fe\'f9\'e8\'f5\'f1\'ff \'f2\'f0\'e5\'e1\'ee\'e2\'e0\'ed\'e8\'e9 \'f0\'fb\'ed\'ea\'e0 \'e8 \'f2\'e5\'f5\'ed\'ee\'eb\'ee\'e3\'e8\'f7\'e5\'f1\'ea\'e8\'f5 \'e2\'fb\'e7\'ee\'e2\'ee\'e2.
 \par }\pard\plain \ltrpar\s2\qc \li0\ri0\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0\pararsid16217901 \rtlch\fcs1 \ab\af0\afs20\alang1025 \ltrch\fcs0 \b\fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {
-\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid9771925\charrsid6162066 \page }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\fs32\insrsid16217901\charrsid6162066 {\*\bkmkstart _Toc167661196}\'d1\'cf\'c8\'d1\'ce\'ca}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\b0\fs32\lang1033\langfe1049\langnp1033\insrsid16217901\charrsid6162066  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\fs32\insrsid16217901\charrsid6162066 \'cb\'c8\'d2\'c5\'d0\'c0\'d2\'d3\'d0\'db}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\b0\fs32\insrsid12475026\charrsid6162066 {\*\bkmkend _Toc167661196}
+\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid9771925\charrsid12600791 \page }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\fs32\insrsid16217901\charrsid6162066 {\*\bkmkstart _Toc167661196}\'d1\'cf\'c8\'d1\'ce\'ca}{\rtlch\fcs1 
+\af0\afs32 \ltrch\fcs0 \b0\fs32\lang1033\langfe1049\langnp1033\insrsid16217901\charrsid6162066  }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \b0\fs32\insrsid16217901\charrsid6162066 \'cb\'c8\'d2\'c5\'d0\'c0\'d2\'d3\'d0\'db}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
+\b0\fs32\lang1033\langfe1049\langnp1033\insrsid12475026\charrsid12600791 {\*\bkmkend _Toc167661196}
 \par }\pard\plain \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid7419995 \rtlch\fcs1 \af0\afs20\alang1025 \ltrch\fcs0 \fs20\lang1049\langfe1049\cgrid\langnp1049\langfenp1049 {\rtlch\fcs1 \af0\afs32 
 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 Haivision. (2017). Secure Reliable Transport (SRT): Technical Overview. 
+\par Haivision. (2017). Secure Reliable Transport (SRT): Technical Overview. 
 \par 
 \par SRT Alliance. (n.d.). SRT Protocol Documentation
 \par 
@@ -843,18 +947,16 @@ Microsoft Azure Media Services. \'dd\'f2\'ee \'ef\'ee\'e7\'e2\'ee\'eb\'e8\'eb\'e
 \par 
 \par Zhang, Z., & Li, M. (2020). Adaptive Error Correction and Security Enhancement in Streaming Media Systems. Journal of Network and Computer Applications, 148, 102468. doi:10.1016/j.jnca.2020.102468
 \par 
-\par Wowza. (2020). SRT vs. RTMP: }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 Which Protocol Should You Use?}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 
+\par Wowza. (2020). SRT vs. RTMP: Which Protocol Should You Use?
 \par 
-\par Cisco. (2019). Cisco Visual Networking Index: }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 Forecast and Trends, 2018\endash 2023.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 
+\par Cisco. (2019). Cisco Visual Networking Index: Forecast and Trends, 2018\endash 2023.
 \par 
-\par Microsoft Azure. (2021). Azure Media Services: Deli}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 vering Live Streaming with SRT.}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 
-\fs32\lang1033\langfe1049\langnp1033\insrsid7419995\charrsid6162066 
+\par Microsoft Azure. (2021). Azure Media Services: Delivering Live Streaming with SRT.
 \par 
-\par OBS Studio. (2020). Setting Up SRT for High-Quality Streaming in OBS. }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 
-\par }\pard \ltrpar\qj \fi720\li360\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid9771925 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \fs32\insrsid12475026\charrsid6162066 
-\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\insrsid12475026 
+\par OBS Studio. (2020). Setting Up SRT for High-Quality Streaming in OBS. }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \fs32\lang1033\langfe1049\langnp1033\insrsid12475026\charrsid12600791 
+\par }\pard \ltrpar\qj \fi720\li360\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid9771925 {\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 
+\fs32\lang1033\langfe1049\langnp1033\insrsid12475026\charrsid12600791 
+\par }{\rtlch\fcs1 \ab\af0\afs24 \ltrch\fcs0 \b\fs24\lang1033\langfe1049\langnp1033\insrsid12475026\charrsid12600791 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
 5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
@@ -973,18 +1075,18 @@ fffffffffffffffffdffffff04000000feffffff05000000fefffffffeffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e5000000000000000000000000805f
-a62690afda010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff020000000000000000000000000000000000000000000000805fa62690afda01
-805fa62690afda010000000000000000000000003300d000d7004700c900c2004600cc00da005500c6004e005400da0035004100d5005000c700d000d600c0003d003d000000000000000000000000000000000032000101ffffffffffffffff030000000000000000000000000000000000000000000000805fa62690af
-da01805fa62690afda010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
-00000000000000000000000000000000f100000000000000010000000200000003000000feffffff0500000006000000070000000800000009000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffff010000000c6ad98892f1d411a65f0040963251e50000000000000000000000003031
+dd8a84b2da010300000080020000000000004d0073006f004400610074006100530074006f0072006500000000000000000000000000000000000000000000000000000000000000000000000000000000001a000101ffffffffffffffff0200000000000000000000000000000000000000000000003031dd8a84b2da01
+3031dd8a84b2da010000000000000000000000005900c7004d00cd00c30048004f0055005100d40053003300d1005a00d800ce00dc00c400d3004f004a00c0003d003d000000000000000000000000000000000032000101ffffffffffffffff0300000000000000000000000000000000000000000000003031dd8a84b2
+da013031dd8a84b2da010000000000000000000000004900740065006d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a000201ffffffff04000000ffffffff000000000000000000000000000000000000000000000000
+00000000000000000000000000000000fc00000000000000010000000200000003000000feffffff0500000006000000070000000800000009000000feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f757263657320786d6c6e733a623d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d
-22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f677261706879222053656c65637465645374796c653d225c415041536978746845646974696f6e4f66666963654f6e6c696e652e78736c22205374796c654e616d
-653d22415041222056657273696f6e3d2236222f3e0000000000000000000000000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b41364336
-304437372d364332312d343945392d384434462d4137433044344639463044417d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff3c623a536f75726365732053656c65637465645374796c653d225c415041536978746845646974696f6e4f66666963654f6e6c696e652e78736c22205374796c654e616d653d22415041222056657273696f6e3d22362220786d6c6e733a
+623d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f6269626c696f6772617068792220786d6c6e733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e74
+2f323030362f6269626c696f677261706879223e3c2f623a536f75726365733e000000003c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d226e6f223f3e0d0a3c64733a6461746173746f72654974656d2064733a6974656d49443d227b38433244
+373336322d393437332d343434332d394443352d3945324546323443434532367d2220786d6c6e733a64733d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f6f6666696365446f63756d656e742f323030362f637573746f6d586d6c223e3c64733a736368656d61526566733e3c
 64733a736368656d615265662064733a7572693d22687474703a2f2f736368656d61732e6f70656e500072006f007000650072007400690065007300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000200ffffffffffffffffffffffff000000000000
 0000000000000000000000000000000000000000000000000000000000000400000055010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000
